@@ -1,1 +1,1 @@
-![wireframe](assets/foto-perfil.jpeg)
+![wireframe](assets/wireframe.png)
